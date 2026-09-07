@@ -1,0 +1,10 @@
+AIAmbulanceEMSDispatch
+AIAutomateroutingmedical
+AIDrugInteractionChecker
+AIHospitalBedResourceOptimizer
+AIPathologySlideAnalyzer
+AIPatientTriageforER
+AIPredictdisease
+AIPublicHealthEpidemiologyTracker
+AIRadiologyReportGenerator
+healthcare

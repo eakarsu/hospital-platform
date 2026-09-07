@@ -1,0 +1,62 @@
+[
+  {
+    "id": "AIAmbulanceEMSDispatch",
+    "name": "Ambulance emsdispatch",
+    "sourceProject": "AIAmbulanceEMSDispatch",
+    "services": []
+  },
+  {
+    "id": "AIAutomateroutingmedical",
+    "name": "Automateroutingmedical",
+    "sourceProject": "AIAutomateroutingmedical",
+    "services": []
+  },
+  {
+    "id": "AIDrugInteractionChecker",
+    "name": "Drug interaction checker",
+    "sourceProject": "AIDrugInteractionChecker",
+    "services": []
+  },
+  {
+    "id": "AIHospitalBedResourceOptimizer",
+    "name": "Hospital bed resource optimizer",
+    "sourceProject": "AIHospitalBedResourceOptimizer",
+    "services": []
+  },
+  {
+    "id": "AIPathologySlideAnalyzer",
+    "name": "Pathology slide analyzer",
+    "sourceProject": "AIPathologySlideAnalyzer",
+    "services": []
+  },
+  {
+    "id": "AIPatientTriageforER",
+    "name": "Patient triagefor er",
+    "sourceProject": "AIPatientTriageforER",
+    "services": []
+  },
+  {
+    "id": "AIPredictdisease",
+    "name": "Predictdisease",
+    "sourceProject": "AIPredictdisease",
+    "services": []
+  },
+  {
+    "id": "AIPublicHealthEpidemiologyTracker",
+    "name": "Public health epidemiology tracker",
+    "sourceProject": "AIPublicHealthEpidemiologyTracker",
+    "services": []
+  },
+  {
+    "id": "AIRadiologyReportGenerator",
+    "name": "Radiology report generator",
+    "sourceProject": "AIRadiologyReportGenerator",
+    "services": []
+  },
+  {
+    "id": "healthcare",
+    "name": "Healthcare",
+    "sourceProject": "healthcare",
+    "services": []
+  }
+]

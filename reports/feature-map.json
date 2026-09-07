@@ -1,0 +1,3821 @@
+{
+  "mapped": [
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "Patient Outcome",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch/client/src/pages/AIBacklogPage.jsx",
+      "canonical": "patient-outcome",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "Cardiac Outcome",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch/client/src/pages/AIBacklogPage.jsx",
+      "canonical": "cardiac-outcome",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "Staffing Optimization",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch/client/src/pages/AIBacklogPage.jsx",
+      "canonical": "staffing-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "Community Paramedicine",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch/client/src/pages/AIBacklogPage.jsx",
+      "canonical": "community-paramedicine",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "Training Simulator",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch/client/src/pages/AIBacklogPage.jsx",
+      "canonical": "training-simulator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "units",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "units",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "calls",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "calls",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "crew",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "crew",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "schedules",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "schedules",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "pcr",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "pcr",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "hospitals",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "hospitals",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "stroke-bypass-readiness",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "stroke-bypass-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "equipment",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "equipment",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "medications",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "medications",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "maintenance",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "maintenance",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "certifications",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "certifications",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "billing",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "billing",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "incidents",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "incidents",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "metrics",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "metrics",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "protocols",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "protocols",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "comm-logs",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "comm-logs",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "exposure",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "exposure",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "qa-reviews",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "qa-reviews",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "mutual-aid",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "mutual-aid",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/triage",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "triage",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/unit-selection",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "unit-selection",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/pcr-draft",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "pcr-draft",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/protocol",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "protocol",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/demand-forecast",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "demand-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/fatigue-analysis",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "fatigue-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/hospital-divert",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "hospital-divert",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/drug-interaction",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "drug-interaction",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/mutual-aid-optimizer",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "mutual-aid-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/caller-script",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "caller-script",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/qi-dashboard",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "qi-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/post-call-debrief",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "post-call-debrief",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/incident-prediction",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "incident-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/crew-schedule",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "crew-schedule",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/mci-plan",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "mci-plan",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/history",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "sourceKey": "ai/backlog",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "canonical": "backlog",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/nurses",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "nurses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/patients",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "patients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/visits",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "visits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/orders",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/schedules",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "schedules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/routes",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/visit-notes",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "visit-notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/route-optimizer",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "route-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/order-processor",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "order-processor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/visit-notes",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "visit-notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/scheduler",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "scheduler",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/risk-assessment",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/chat",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/logs",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/traffic-adjust",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "traffic-adjust",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/acuity-alert",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "acuity-alert",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/medication-check",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "medication-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/skill-match",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "skill-match",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/outcome-predict",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "outcome-predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/family-portal",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "family-portal",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/shift-swap",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "shift-swap",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/preauth",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "preauth",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/ai/no-show-predict",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "no-show-predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "traffic-adjust",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "canonical": "traffic-adjust",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "acuity-check",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "canonical": "acuity-check",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "medication-check",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "canonical": "medication-check",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "skill-match",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "canonical": "skill-match",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "outcome-predict",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "canonical": "outcome-predict",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "family-summary",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "canonical": "family-summary",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "family-summary/messages",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "shift-swaps",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "canonical": "shift-swap",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "preauth",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "canonical": "preauth",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "check-conflict",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "canonical": "check-conflict",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "no-show-predict",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "canonical": "no-show-predict",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "canonical": "connections",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "drugs",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "drugs",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "interactions",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "interactions",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "patients",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "patients",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "adverse-reactions",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "adverse-reactions",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "dosage",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "dosage",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "renal-dose-review",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "renal-dose-review",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "alternatives",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "alternatives",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "allergies",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "allergies",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "contraindications",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "contraindications",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "food-interactions",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "food-interactions",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "pregnancy",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "pregnancy",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "pediatric",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "pediatric",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "geriatric",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "geriatric",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "pharmacogenomics",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "pharmacogenomics",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "guidelines",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "guidelines",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "ai-multi-check",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "multi-check",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "ai-geriatric-risk",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "geriatric-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "ai-audit-summary",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "audit-summary",
+      "kind": "route"
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "sourceKey": "ai-clinical-trials",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "canonical": "clinical-trials",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/beds",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "dashboard-beds",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/patients",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "dashboard-patients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/staff",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "dashboard-staff",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/departments",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "dashboard-departments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/equipment",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/resources",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "dashboard-resources",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/operating-rooms",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "dashboard-operating-rooms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/supplies",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "dashboard-supplies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/emergency",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "dashboard-emergency",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/isolation-bed-match",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "dashboard-isolation-bed-match",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/ai-insights",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "dashboard-ai-insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/advanced-ai",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "dashboard-advanced-ai",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "/dashboard/analytics",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "cf-agentic-hospital-command-center-visualiz",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "agentic-hospital-command-center-visualiz",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "cf-predictive-surge-management-forecasting-",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "predictive-surge-management-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "cf-length-of-stay-prediction-at-admission",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "length-of-stay-prediction-at-admission",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "cf-staff-allocation-optimizer-predicting-ac",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "staff-allocation-optimizer-predicting-ac",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "cf-readmission-prevention-ai-with-enhanced-",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "readmission-prevention-ai-with-enhanced",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "cf-equipment-utilization-optimizer-for-vent",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "equipment-utilization-optimizer-for-vent",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "gap-no-readmission-risk-prediction",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "readmission-risk-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "gap-no-icu-step-down-recommendation",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "icu-step-down-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "gap-no-automated-census-balancing-agent-acro",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "automated-census-balancing-agent-acro",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "gap-no-providerclinician-scheduling-beyond-s",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "providerclinician-scheduling-beyond-s",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "gap-no-billingcoding-integration",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "billingcoding-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "gap-no-patientfamily-communication-portal",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "patientfamily-communication-portal",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "gap-no-clinical-decision-support-drug-intera",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "clinical-decision-support-drug-intera",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "gap-no-webhook-surface",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "webhook-surface",
+      "kind": "route"
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "sourceKey": "gap-no-real-time-websocket-bed-board",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "canonical": "real-time-websocket-bed-board",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/patients",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "patients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/slides",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "slides",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/analyses",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "analyses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/cancer-detections",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "cancer-detections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/cell-classifications",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "cell-classifications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/tissue-segmentations",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "tissue-segmentations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/cases",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/quality-controls",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "quality-controls",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/annotations",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "annotations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/billing",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/audit-logs",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/patients",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/pages/Dashboard.js",
+      "canonical": "patients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/slides",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/pages/Dashboard.js",
+      "canonical": "slides",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/analyses",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/pages/Dashboard.js",
+      "canonical": "analyses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/pages/Dashboard.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/cases",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/pages/Dashboard.js",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/annotations",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/pages/Dashboard.js",
+      "canonical": "annotations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "/billing",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/pages/Dashboard.js",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "cf-ai-pathology-assistant",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "ai-pathology-assistant",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "cf-second-opinion-consensus",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "second-opinion-consensus",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "cf-educational-mode",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "educational-mode",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "cf-registry-integration",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "registry-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "cf-quality-assurance-loop",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "quality-assurance-loop",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "gap-quality-assess",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "quality-assess",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "gap-multi",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "multi",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "gap-auto-report-generate",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "auto-report-generate",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "gap-no-dedicated-routes-directory-all-routes-inline-in",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "dedicated-routes-directory-all-routes-inline-in",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "gap-no-dicom-server-integration-medical-image-standard",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "dicom-server-integration-medical-image-standard",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "gap-no-lis-lab-information-system-integration",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "lis-lab-information-system-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "gap-no-whole-slide-image-wsi-viewer-only-stored-images",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "whole-slide-image-wsi-viewer-only-stored-images",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "gap-no-multi",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "multi",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "gap-no-webhooks-for-lab-result-delivery",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "webhooks-for-lab-result-delivery",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "gap-no-notifications-layer-grep-returned-0-notificatio",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "notifications-layer-grep-returned-0-notificatio",
+      "kind": "route"
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "sourceKey": "gap-limited-rbac-basic-auth-only",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "canonical": "limited-rbac-basic-auth-only",
+      "kind": "route"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/ehr/encounters",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "ehr-encounters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/ehr/allergies",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "allergies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/ehr/problems",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "ehr-problems",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/ehr/orders",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "ehr-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/ehr/referrals",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "ehr-referrals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/ehr/notes",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "ehr-notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/ehr/fhir",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "ehr-fhir",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/ehr/rx",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "ehr-rx",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/ehr/imaging",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "ehr-imaging",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/patients",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "patients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/triage",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "triage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/vitals",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "vitals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/symptoms",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "symptoms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/queue",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "queue",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/er-board",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "er-board",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/assignments",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "assignments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/treatments",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "treatments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/wait-times",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "wait-times",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/medical-history",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "medical-history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/lab-orders",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "lab-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/medications",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "medications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/discharges",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "discharges",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/beds",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "dashboard-beds",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/patient-flow",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "patient-flow",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/esi-calculator",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "esi-calculator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/stroke-door-to-needle",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "stroke-door-to-needle",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/resource-predictor",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "resource-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/med-safety",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "med-safety",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/ai-history",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/ai-predictive",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "predictive",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/cf-agentic-er-flow-optimization",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "agentic-er-flow-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/cf-multi-modal-symptom-assessment",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "multi-modal-symptom-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/cf-prediction-action-bundling",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "prediction-action-bundling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/cf-sepsis-early-warning",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "sepsis-early-warning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/cf-discharge-risk-stratification",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "discharge-risk-stratification",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/gap-patients-without-patient",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "patients-without-patient",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/gap-resources-without-staffing",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "resources-without-staffing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/gap-discharge-without-readmission",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "discharge-without-readmission",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/gap-backend-collapses-everything-into-crud-js",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "backend-collapses-everything-into-crud-js",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/gap-no-production",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "production",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/gap-no-real",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "real",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/gap-no-ambulance-ems-integration-arrival-notifications",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "ambulance-ems-integration-arrival-notifications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/gap-no-multi",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "multi",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/gap-no-webhooks-for-critical-alerts-to-pagers-phones",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "webhooks-for-critical-alerts-to-pagers-phones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/gap-no-notifications-layer-dedicated-to-clinical-alert",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "notifications-layer-dedicated-to-clinical-alert",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/gap-no-file-upload-for-imaging-lab-attachments-visible",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "canonical": "file-upload-for-imaging-lab-attachments-visible",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "history-summary",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/pages/AIPredictivePage.js",
+      "canonical": "history-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "staffing-optimize",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/pages/AIPredictivePage.js",
+      "canonical": "staffing-optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "readmission-risk",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/pages/AIPredictivePage.js",
+      "canonical": "readmission-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "sourceKey": "/medications",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/pages/Dashboard.js",
+      "canonical": "medications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "outbreaks",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "outbreaks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "campaigns",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "risks",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "risks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "resources",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "resources",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "alerts",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "epidata",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "epidata",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "inventory",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "facilities",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "facilities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "predict-disease",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "predict-disease",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "risk-factors",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "risk-factors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "drug-interactions",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "drug-interactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "differential",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "differential",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "population",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "population",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "patient-history",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "patient-history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "ai-history",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "/outbreaks",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "outbreaks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "/campaigns",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "/risks",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "risks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "/resources",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "resources",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "/epidata",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "epidata",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "/facilities",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "facilities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "ai-analysis",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "differential-diagnosis",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "differential",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "population-analytics",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "population",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "comorbidity-analyze",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "comorbidity-analyze",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "seasonality-predict",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "seasonality-predict",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "cf-agentic-disease-surveillance",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "agentic-disease-surveillance",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "cf-individual-risk-dashboard",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "individual-risk-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "cf-treatment-efficacy-tracking",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "treatment-efficacy-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "cf-outbreak-simulation",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "outbreak-simulation",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "cf-travel-health-risk",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "travel-health-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "gap-patients-without-comorbidity",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "patients-without-comorbidity",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "gap-trends-without-seasonality",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "trends-without-seasonality",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "gap-backend-collapses-to-crud-js",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "backend-collapses-to-crud-js",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "gap-no-public-health-database-integration-cdc-who",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "public-health-database-integration-cdc-who",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "gap-no-case-management-workflows",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "case-management-workflows",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "gap-no-contact-tracing",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "contact-tracing",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "gap-limited-population-health-analytics",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "limited-population-health-analytics",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "gap-no-ehr-integration",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "ehr-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "gap-no-notifications-module-grep-0",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "notifications-module-grep-0",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "gap-no-webhooks-for-outbreak-alerts",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "webhooks-for-outbreak-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictdisease",
+      "sourceKey": "gap-no-integration-with-clinical-systems",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "canonical": "integration-with-clinical-systems",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "Disease Outbreaks",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/App.jsx",
+      "canonical": "outbreaks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "Vaccination Campaigns",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/App.jsx",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "Contact Tracing",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/App.jsx",
+      "canonical": "contact-tracing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "Syndromic Surveillance",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/App.jsx",
+      "canonical": "syndromic-surveillance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "Water Quality",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/App.jsx",
+      "canonical": "water-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "Air Quality",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/App.jsx",
+      "canonical": "air-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "Hospital Capacity",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/App.jsx",
+      "canonical": "hospital-capacity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "Mortality Statistics",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/App.jsx",
+      "canonical": "mortality-statistics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "Disease Reports",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/App.jsx",
+      "canonical": "disease-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "Antimicrobial Resistance",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/App.jsx",
+      "canonical": "antimicrobial-resistance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "Vector-Borne Diseases",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/App.jsx",
+      "canonical": "vector-borne-diseases",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "Health Equity",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/App.jsx",
+      "canonical": "health-equity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "cross-border-alerts",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "cross-border-alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-importation-risk",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "assess-importation-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-poe-screening",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "recommend-poe-screening",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "classify-threat-level",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "classify-threat-level",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-alert-bulletin",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "generate-alert-bulletin",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-bilateral-actions",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "recommend-bilateral-actions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-local-transmission-risk",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "predict-local-transmission-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-traveler-advisory-need",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "assess-traveler-advisory-need",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "summarize-corridor-epidemiology",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "summarize-corridor-epidemiology",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-vector-control",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "recommend-vector-control",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "classify-cooperation-readiness",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "classify-cooperation-readiness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-spread-timeline",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "predict-spread-timeline",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-joint-investigation-plan",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "generate-joint-investigation-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-economic-impact",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "assess-economic-impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-communication-strategy",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "recommend-communication-strategy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "classify-outbreak-origin",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "classify-outbreak-origin",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "summarize-regional-risk",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvCrossBorderAlerts.jsx",
+      "canonical": "summarize-regional-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "genomic-sequencing",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "genomic-sequencing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "classify-variant-risk",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "classify-variant-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-immune-escape",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "predict-immune-escape",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "summarize-lineage-spread",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "summarize-lineage-spread",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "detect-novel-mutations",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "detect-novel-mutations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-sequencing-priority",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "recommend-sequencing-priority",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "compare-variants",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "compare-variants",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-transmission-advantage",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "predict-transmission-advantage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-phylogenetic-narrative",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "generate-phylogenetic-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "score-sequence-quality",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "score-sequence-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-vaccine-mismatch",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "assess-vaccine-mismatch",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-clinical-severity",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "predict-clinical-severity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "summarize-regional-diversity",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "summarize-regional-diversity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "detect-recombination-event",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "detect-recombination-event",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-surveillance-targets",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "recommend-surveillance-targets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-variant-report",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "generate-variant-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-gisaid-submission-readiness",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvGenomicSequencing.jsx",
+      "canonical": "assess-gisaid-submission-readiness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "outbreak-cluster-detection",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "outbreak-cluster-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-cluster-significance",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "assess-cluster-significance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "identify-source-hypothesis",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "identify-source-hypothesis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-investigation-steps",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "recommend-investigation-steps",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "prioritize-clusters",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "prioritize-clusters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-cluster-growth",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "predict-cluster-growth",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-cluster-narrative",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "generate-cluster-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-control-measure-effectiveness",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "assess-control-measure-effectiveness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "detect-secondary-clusters",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "detect-secondary-clusters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "classify-exposure-type",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "classify-exposure-type",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-contact-tracing-scope",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "recommend-contact-tracing-scope",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "summarize-cluster-epidemiology",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "summarize-cluster-epidemiology",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-final-cluster-size",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "predict-final-cluster-size",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-reporting-completeness",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "assess-reporting-completeness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-who-report",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "generate-who-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "compare-historical-clusters",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "compare-historical-clusters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "score-environmental-risk",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvOutbreakClusterDetection.jsx",
+      "canonical": "score-environmental-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "r0-estimation",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "r0-estimation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "interpret-r-value",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "interpret-r-value",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-epidemic-trajectory",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "predict-epidemic-trajectory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-intervention-intensity",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "recommend-intervention-intensity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-estimation-uncertainty",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "assess-estimation-uncertainty",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "compare-r-across-regions",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "compare-r-across-regions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "detect-r-changepoint",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "detect-r-changepoint",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-herd-immunity-threshold",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "predict-herd-immunity-threshold",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-r-narrative",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "generate-r-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-data-window",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "recommend-data-window",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-reporting-delay-impact",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "assess-reporting-delay-impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "classify-transmission-phase",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "classify-transmission-phase",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-peak-timing",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "predict-peak-timing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-intervention-effect",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "assess-intervention-effect",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "summarize-transmission-dynamics",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "summarize-transmission-dynamics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-monitoring-frequency",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "recommend-monitoring-frequency",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-policy-brief",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvR0Estimation.jsx",
+      "canonical": "generate-policy-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "syndromic-surveillance",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "syndromic-surveillance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "detect-syndrome-anomaly",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "detect-syndrome-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "classify-symptom-cluster",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "classify-symptom-cluster",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-disease-causing-syndrome",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "predict-disease-causing-syndrome",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-investigation",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "recommend-investigation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "score-signal-strength",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "score-signal-strength",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-alert-narrative",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "generate-alert-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "summarize-ed-visits",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "summarize-ed-visits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "validate-chief-complaint-coding",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "validate-chief-complaint-coding",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "suggest-syndrome-definition-refinement",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "suggest-syndrome-definition-refinement",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "detect-bias-by-facility",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "detect-bias-by-facility",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "classify-age-group-pattern",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "classify-age-group-pattern",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-seasonal-shift",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "predict-seasonal-shift",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-data-source-addition",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "recommend-data-source-addition",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-weekly-report",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "generate-weekly-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "score-data-timeliness",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "score-data-timeliness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "summarize-spatial-pattern",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvSyndromicSurveillance.jsx",
+      "canonical": "summarize-spatial-pattern",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "wastewater-signals",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "wastewater-signals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "detect-signal-anomaly",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "detect-signal-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "classify-pathogen-pattern",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "classify-pathogen-pattern",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-clinical-cases-lag",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "predict-clinical-cases-lag",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-sampling-frequency",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "recommend-sampling-frequency",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "score-signal-quality",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "score-signal-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-trend-narrative",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "generate-trend-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "summarize-treatment-plant",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "summarize-treatment-plant",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "validate-normalization",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "validate-normalization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "suggest-pmmov-correction",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "suggest-pmmov-correction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "detect-sample-degradation",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "detect-sample-degradation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "classify-shedding-rate",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "classify-shedding-rate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-outbreak-pressure",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "predict-outbreak-pressure",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-confirmatory-testing",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "recommend-confirmatory-testing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-public-bulletin",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "generate-public-bulletin",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "score-catchment-coverage",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "score-catchment-coverage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "summarize-multi-pathogen-trend",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWastewaterSignals.jsx",
+      "canonical": "summarize-multi-pathogen-trend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "who-ihr-reporting",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "who-ihr-reporting",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-pheic-criteria",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "assess-pheic-criteria",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-ihr-notification",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "generate-ihr-notification",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "score-notification-completeness",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "score-notification-completeness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-international-spread-risk",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "assess-international-spread-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-annex2-actions",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "recommend-annex2-actions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "classify-event-severity",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "classify-event-severity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-communication-draft",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "generate-communication-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-country-ihr-capacity",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "assess-country-ihr-capacity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "predict-escalation-likelihood",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "predict-escalation-likelihood",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-verification-steps",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "recommend-verification-steps",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "summarize-event-timeline",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "summarize-event-timeline",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "assess-control-measure-adequacy",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "assess-control-measure-adequacy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "generate-situation-report",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "generate-situation-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "recommend-cross-border-actions",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "recommend-cross-border-actions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "classify-reporter-credibility",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "classify-reporter-credibility",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "summarize-ihr-compliance",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker/frontend/src/pages/surveillance/SurvWhoIhrReporting.jsx",
+      "canonical": "summarize-ihr-compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "cf-nowcast-case-trajectory",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "nowcast-case-trajectory",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "cf-variant-tracking-forecasting",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "variant-tracking-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "cf-equityaware-resource-allocation",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "equityaware-resource-allocation",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "cf-social-determinants-rag",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "social-determinants-rag",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "cf-multilanguage-health-messaging",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "multilanguage-health-messaging",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "cf-zoonotic-spillover-risk-model",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "zoonotic-spillover-risk-model",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-outbreakprediction-spatialtemporal-modeli",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "outbreakprediction-spatialtemporal-modeli",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-equitygapanalysis-disparities-by-demograp",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "equitygapanalysis-disparities-by-demograp",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-interventionrecommendation-evidencebased",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "interventionrecommendation-evidencebased",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-caseclustering-anomaly-detection",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "caseclustering-anomaly-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-vaccinationcoverageforecast",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "vaccinationcoverageforecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-resourceallocation-ai",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "resourceallocation-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-realtime-outbreak-mapdashboard-route",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "realtime-outbreak-mapdashboard-route",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-case-linelist-deduplication-workflow",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "case-linelist-deduplication-workflow",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-syndromic-surveillance-ingestion-ed-otc-p",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "syndromic-surveillance-ingestion-ed-otc-p",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-cdcstate-healthdepartment-api-integration",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "cdcstate-healthdepartment-api-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-contact-tracing-workflow-beyond-data-stor",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "contact-tracing-workflow-beyond-data-stor",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-notificationssms-push-for-alerts",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "notificationssms-push-for-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-reportingexport-csvpdf",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "reportingexport-csvpdf",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "gap-no-rbac-for-clinical-vs-admin-roles",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "rbac-for-clinical-vs-admin-roles",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "ai-history",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "alert-subscriptions",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "alert-subscriptions",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "case-clustering",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "case-clustering",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "outbreak-intervention",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "outbreak-intervention",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "surveillance/wastewater-signals",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "wastewater-signals",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "surveillance/syndromic-surveillance",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "syndromic-surveillance",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "surveillance/genomic-sequencing",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "genomic-sequencing",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "surveillance/outbreak-cluster-detection",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "outbreak-cluster-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "surveillance/r0-estimation",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "surveillance-r0-estimation",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "surveillance/who-ihr-reporting",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "who-ihr-reporting",
+      "kind": "route"
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "sourceKey": "surveillance/cross-border-alerts",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "canonical": "cross-border-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIRadiologyReportGenerator",
+      "sourceKey": "AIRadiologyReportGenerator",
+      "source": "/Volumes/external/projects/AIRadiologyReportGenerator",
+      "canonical": "airadiology-report-generator",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/smart-scheduling",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/page.tsx",
+      "canonical": "features-smart-scheduling",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/clinical-workflows",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/page.tsx",
+      "canonical": "features-clinical-workflows",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/revenue-cycle",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/page.tsx",
+      "canonical": "features-revenue-cycle",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/ai-assistant",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/page.tsx",
+      "canonical": "features-ai-assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/quality-mips",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/page.tsx",
+      "canonical": "features-quality-mips",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/patient-engagement",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/page.tsx",
+      "canonical": "features-patient-engagement",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/soap-notes",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-soap-notes",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/e-prescriptions",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-e-prescriptions",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/lab-orders",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "lab-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/imaging-orders",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-imaging-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/patient-engagement",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-patient-engagement",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/revenue-cycle",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-revenue-cycle",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/revenue-cycle",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-revenue-cycle",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/revenue-cycle",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-revenue-cycle",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/revenue-cycle",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-revenue-cycle",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/revenue-cycle",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-revenue-cycle",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/revenue-cycle",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-revenue-cycle",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/ai-assistant",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-ai-assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/ai-assistant",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-ai-assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/ai-assistant",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-ai-assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/ai-assistant",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-ai-assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/quality-mips",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-quality-mips",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/quality-mips",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-quality-mips",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/quality-mips",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-quality-mips",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/features/quality-mips",
+      "source": "/Volumes/external/projects/healthcare/src/app/(marketing)/features/page.tsx",
+      "canonical": "features-quality-mips",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/patients",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "patients",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/schedule",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-schedule",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/schedule",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/schedule/appointments",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-schedule-appointments",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/schedule/waitlist",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-schedule-waitlist",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/clinical",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-clinical",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/clinical",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-clinical",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/clinical/lab-orders",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "lab-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/clinical/templates",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/billing",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/billing",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-billing",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/billing/claims",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-billing-claims",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/billing/payments",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-billing-payments",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/billing/superbill",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-billing-superbill",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/billing/aging",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-billing-aging",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/billing/denials",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-billing-denials",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/billing/eligibility",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-billing-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/insurance",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-insurance",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/insurance",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-insurance",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/insurance/verification",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-insurance-verification",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/documents",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/allergy-interaction-review",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-allergy-interaction-review",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/fax",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-fax",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/quality",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/ai",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-ai",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/ai/scribe",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-ai-scribe",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/reports",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/settings",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-settings",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/settings",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-settings",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/settings/providers",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-settings-providers",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/settings/locations",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-settings-locations",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/settings/services",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-settings-services",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/settings/fee-schedules",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-settings-fee-schedules",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/settings/security",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-settings-security",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/dashboard/settings/hipaa",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-settings-hipaa",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/portal",
+      "source": "/Volumes/external/projects/healthcare/src/app/portal/layout.tsx",
+      "canonical": "portal",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/portal/appointments",
+      "source": "/Volumes/external/projects/healthcare/src/app/portal/layout.tsx",
+      "canonical": "dashboard-schedule-appointments",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/portal/messages",
+      "source": "/Volumes/external/projects/healthcare/src/app/portal/layout.tsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/portal/chat",
+      "source": "/Volumes/external/projects/healthcare/src/app/portal/layout.tsx",
+      "canonical": "chat",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/portal/records",
+      "source": "/Volumes/external/projects/healthcare/src/app/portal/layout.tsx",
+      "canonical": "portal-records",
+      "kind": "definition"
+    },
+    {
+      "project": "healthcare",
+      "sourceKey": "/portal/payments",
+      "source": "/Volumes/external/projects/healthcare/src/app/portal/layout.tsx",
+      "canonical": "dashboard-billing-payments",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAmbulanceEMSDispatch",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical/frontend/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "key": "/routes/:route_id/stops/bulk",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAutomateroutingmedical",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomateroutingmedical",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIDrugInteractionChecker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDrugInteractionChecker",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "key": "/dashboard/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIHospitalBedResourceOptimizer",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "key": "/extensions",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "key": "extensions",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPathologySlideAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPathologySlideAnalyzer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIPatientTriageforER/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIPatientTriageforER",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPatientTriageforER",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPatientTriageforER",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPatientTriageforER",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPatientTriageforER",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPredictdisease",
+      "key": "ai",
+      "source": "/Volumes/external/projects/AIPredictdisease/frontend/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPredictdisease",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPredictdisease",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPredictdisease",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPredictdisease",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPredictdisease",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPredictdisease",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPredictdisease",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPublicHealthEpidemiologyTracker",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "healthcare",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/healthcare/src/components/layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "project": "AIRadiologyReportGenerator",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

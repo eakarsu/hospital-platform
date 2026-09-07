@@ -1,0 +1,1245 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "pcr-draft",
+      "history-summary",
+      "summarize-corridor-epidemiology",
+      "summarize-regional-risk",
+      "summarize-lineage-spread",
+      "summarize-regional-diversity",
+      "summarize-cluster-epidemiology",
+      "summarize-transmission-dynamics",
+      "summarize-ed-visits",
+      "summarize-spatial-pattern",
+      "summarize-treatment-plant",
+      "generate-communication-draft",
+      "summarize-event-timeline",
+      "summarize-ihr-compliance",
+      "airadiology-report-generator"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 18 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "pcr-draft",
+        "title": "Pcr draft",
+        "originalPath": "/features/pcr-draft"
+      },
+      {
+        "id": "history-summary",
+        "title": "Patient History Summarize",
+        "originalPath": "/features/history-summary"
+      },
+      {
+        "id": "summarize-corridor-epidemiology",
+        "title": "Summarize Corridor Epidemiology",
+        "originalPath": "/features/summarize-corridor-epidemiology"
+      },
+      {
+        "id": "summarize-regional-risk",
+        "title": "Summarize Regional Risk",
+        "originalPath": "/features/summarize-regional-risk"
+      },
+      {
+        "id": "summarize-lineage-spread",
+        "title": "Summarize Lineage Spread",
+        "originalPath": "/features/summarize-lineage-spread"
+      },
+      {
+        "id": "summarize-regional-diversity",
+        "title": "Summarize Regional Diversity",
+        "originalPath": "/features/summarize-regional-diversity"
+      },
+      {
+        "id": "summarize-cluster-epidemiology",
+        "title": "Summarize Cluster Epidemiology",
+        "originalPath": "/features/summarize-cluster-epidemiology"
+      },
+      {
+        "id": "summarize-transmission-dynamics",
+        "title": "Summarize Transmission Dynamics",
+        "originalPath": "/features/summarize-transmission-dynamics"
+      },
+      {
+        "id": "summarize-ed-visits",
+        "title": "Summarize ED Visits",
+        "originalPath": "/features/summarize-ed-visits"
+      },
+      {
+        "id": "summarize-spatial-pattern",
+        "title": "Summarize Spatial Pattern",
+        "originalPath": "/features/summarize-spatial-pattern"
+      },
+      {
+        "id": "summarize-treatment-plant",
+        "title": "Summarize Treatment Plant",
+        "originalPath": "/features/summarize-treatment-plant"
+      },
+      {
+        "id": "generate-communication-draft",
+        "title": "Generate Communication Draft",
+        "originalPath": "/features/generate-communication-draft"
+      },
+      {
+        "id": "summarize-event-timeline",
+        "title": "Summarize Event Timeline",
+        "originalPath": "/features/summarize-event-timeline"
+      },
+      {
+        "id": "summarize-ihr-compliance",
+        "title": "Summarize IHR Compliance",
+        "originalPath": "/features/summarize-ihr-compliance"
+      },
+      {
+        "id": "airadiology-report-generator",
+        "title": "Radiology report generator work",
+        "originalPath": "/features/airadiology-report-generator"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "patient-outcome",
+      "cardiac-outcome",
+      "community-paramedicine",
+      "training-simulator",
+      "maintenance",
+      "qa-reviews",
+      "mutual-aid",
+      "triage",
+      "unit-selection",
+      "protocol",
+      "hospital-divert",
+      "drug-interaction",
+      "caller-script",
+      "qi-dashboard",
+      "post-call-debrief",
+      "mci-plan",
+      "backlog",
+      "chat",
+      "logs",
+      "renal-dose-review",
+      "contraindications",
+      "multi-check",
+      "clinical-trials",
+      "dashboard-advanced-ai",
+      "readmission-prevention-ai-with-enhanced",
+      "ai-pathology-assistant",
+      "patient-flow",
+      "multi-modal-symptom-assessment",
+      "population",
+      "limited-population-health-analytics",
+      "generate-alert-bulletin",
+      "assess-traveler-advisory-need",
+      "generate-joint-investigation-plan",
+      "assess-economic-impact",
+      "compare-variants",
+      "generate-phylogenetic-narrative",
+      "assess-vaccine-mismatch",
+      "generate-variant-report",
+      "assess-gisaid-submission-readiness",
+      "assess-cluster-significance",
+      "identify-source-hypothesis",
+      "prioritize-clusters",
+      "generate-cluster-narrative",
+      "assess-reporting-completeness",
+      "generate-who-report",
+      "compare-historical-clusters",
+      "interpret-r-value",
+      "assess-estimation-uncertainty",
+      "compare-r-across-regions",
+      "generate-r-narrative",
+      "assess-reporting-delay-impact",
+      "assess-intervention-effect",
+      "generate-alert-narrative",
+      "validate-chief-complaint-coding",
+      "suggest-syndrome-definition-refinement",
+      "generate-weekly-report",
+      "validate-normalization",
+      "suggest-pmmov-correction",
+      "generate-public-bulletin",
+      "assess-pheic-criteria",
+      "generate-ihr-notification",
+      "generate-situation-report",
+      "resourceallocation-ai",
+      "features-ai-assistant",
+      "dashboard-allergy-interaction-review",
+      "dashboard-ai"
+    ],
+    "ai": true,
+    "representativeId": "patient-outcome",
+    "description": "One assistant for 66 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "patient-outcome",
+        "title": "Patient Outcome",
+        "originalPath": "/features/patient-outcome"
+      },
+      {
+        "id": "cardiac-outcome",
+        "title": "Cardiac Outcome",
+        "originalPath": "/features/cardiac-outcome"
+      },
+      {
+        "id": "community-paramedicine",
+        "title": "Community Paramedicine",
+        "originalPath": "/features/community-paramedicine"
+      },
+      {
+        "id": "training-simulator",
+        "title": "Training Simulator",
+        "originalPath": "/features/training-simulator"
+      },
+      {
+        "id": "maintenance",
+        "title": "Maintenance",
+        "originalPath": "/features/maintenance"
+      },
+      {
+        "id": "qa-reviews",
+        "title": "Qa reviews",
+        "originalPath": "/features/qa-reviews"
+      },
+      {
+        "id": "mutual-aid",
+        "title": "Mutual aid",
+        "originalPath": "/features/mutual-aid"
+      },
+      {
+        "id": "triage",
+        "title": "Triage",
+        "originalPath": "/features/triage"
+      },
+      {
+        "id": "unit-selection",
+        "title": "Unit selection",
+        "originalPath": "/features/unit-selection"
+      },
+      {
+        "id": "protocol",
+        "title": "Protocol",
+        "originalPath": "/features/protocol"
+      },
+      {
+        "id": "hospital-divert",
+        "title": "Hospital divert",
+        "originalPath": "/features/hospital-divert"
+      },
+      {
+        "id": "drug-interaction",
+        "title": "Drug interaction",
+        "originalPath": "/features/drug-interaction"
+      },
+      {
+        "id": "caller-script",
+        "title": "Caller script",
+        "originalPath": "/features/caller-script"
+      },
+      {
+        "id": "qi-dashboard",
+        "title": "Qi dashboard",
+        "originalPath": "/features/qi-dashboard"
+      },
+      {
+        "id": "post-call-debrief",
+        "title": "Post call debrief",
+        "originalPath": "/features/post-call-debrief"
+      },
+      {
+        "id": "mci-plan",
+        "title": "Mci plan",
+        "originalPath": "/features/mci-plan"
+      },
+      {
+        "id": "backlog",
+        "title": "Backlog",
+        "originalPath": "/features/backlog"
+      },
+      {
+        "id": "chat",
+        "title": "AI Assistant",
+        "originalPath": "/features/chat"
+      },
+      {
+        "id": "logs",
+        "title": "AI Logs",
+        "originalPath": "/features/logs"
+      },
+      {
+        "id": "renal-dose-review",
+        "title": "Renal dose review",
+        "originalPath": "/features/renal-dose-review"
+      },
+      {
+        "id": "contraindications",
+        "title": "Contraindications",
+        "originalPath": "/features/contraindications"
+      },
+      {
+        "id": "multi-check",
+        "title": "Multi check",
+        "originalPath": "/features/multi-check"
+      },
+      {
+        "id": "clinical-trials",
+        "title": "Clinical trials",
+        "originalPath": "/features/clinical-trials"
+      },
+      {
+        "id": "dashboard-advanced-ai",
+        "title": "Advanced AI",
+        "originalPath": "/features/dashboard-advanced-ai"
+      },
+      {
+        "id": "readmission-prevention-ai-with-enhanced",
+        "title": "readmission prevention ai with enhanced",
+        "originalPath": "/features/readmission-prevention-ai-with-enhanced"
+      },
+      {
+        "id": "ai-pathology-assistant",
+        "title": "ai pathology assistant",
+        "originalPath": "/features/ai-pathology-assistant"
+      },
+      {
+        "id": "patient-flow",
+        "title": "Patient Flow Analytics",
+        "originalPath": "/features/patient-flow"
+      },
+      {
+        "id": "multi-modal-symptom-assessment",
+        "title": "Multi-modal symptom assessment",
+        "originalPath": "/features/multi-modal-symptom-assessment"
+      },
+      {
+        "id": "population",
+        "title": "Population Analytics",
+        "originalPath": "/features/population"
+      },
+      {
+        "id": "limited-population-health-analytics",
+        "title": "limited population health analytics",
+        "originalPath": "/features/limited-population-health-analytics"
+      },
+      {
+        "id": "generate-alert-bulletin",
+        "title": "Generate Alert Bulletin",
+        "originalPath": "/features/generate-alert-bulletin"
+      },
+      {
+        "id": "assess-traveler-advisory-need",
+        "title": "Assess Traveler Advisory Need",
+        "originalPath": "/features/assess-traveler-advisory-need"
+      },
+      {
+        "id": "generate-joint-investigation-plan",
+        "title": "Generate Joint Investigation Plan",
+        "originalPath": "/features/generate-joint-investigation-plan"
+      },
+      {
+        "id": "assess-economic-impact",
+        "title": "Assess Economic Impact",
+        "originalPath": "/features/assess-economic-impact"
+      },
+      {
+        "id": "compare-variants",
+        "title": "Compare Variants",
+        "originalPath": "/features/compare-variants"
+      },
+      {
+        "id": "generate-phylogenetic-narrative",
+        "title": "Generate Phylogenetic Narrative",
+        "originalPath": "/features/generate-phylogenetic-narrative"
+      },
+      {
+        "id": "assess-vaccine-mismatch",
+        "title": "Assess Vaccine Mismatch",
+        "originalPath": "/features/assess-vaccine-mismatch"
+      },
+      {
+        "id": "generate-variant-report",
+        "title": "Generate Variant Report",
+        "originalPath": "/features/generate-variant-report"
+      },
+      {
+        "id": "assess-gisaid-submission-readiness",
+        "title": "Assess GISAID Submission Readiness",
+        "originalPath": "/features/assess-gisaid-submission-readiness"
+      },
+      {
+        "id": "assess-cluster-significance",
+        "title": "Assess Cluster Significance",
+        "originalPath": "/features/assess-cluster-significance"
+      },
+      {
+        "id": "identify-source-hypothesis",
+        "title": "Identify Source Hypothesis",
+        "originalPath": "/features/identify-source-hypothesis"
+      },
+      {
+        "id": "prioritize-clusters",
+        "title": "Prioritize Clusters",
+        "originalPath": "/features/prioritize-clusters"
+      },
+      {
+        "id": "generate-cluster-narrative",
+        "title": "Generate Cluster Narrative",
+        "originalPath": "/features/generate-cluster-narrative"
+      },
+      {
+        "id": "assess-reporting-completeness",
+        "title": "Assess Reporting Completeness",
+        "originalPath": "/features/assess-reporting-completeness"
+      },
+      {
+        "id": "generate-who-report",
+        "title": "Generate WHO Report",
+        "originalPath": "/features/generate-who-report"
+      },
+      {
+        "id": "compare-historical-clusters",
+        "title": "Compare Historical Clusters",
+        "originalPath": "/features/compare-historical-clusters"
+      },
+      {
+        "id": "interpret-r-value",
+        "title": "Interpret R Value",
+        "originalPath": "/features/interpret-r-value"
+      },
+      {
+        "id": "assess-estimation-uncertainty",
+        "title": "Assess Estimation Uncertainty",
+        "originalPath": "/features/assess-estimation-uncertainty"
+      },
+      {
+        "id": "compare-r-across-regions",
+        "title": "Compare R Across Regions",
+        "originalPath": "/features/compare-r-across-regions"
+      },
+      {
+        "id": "generate-r-narrative",
+        "title": "Generate R Narrative",
+        "originalPath": "/features/generate-r-narrative"
+      },
+      {
+        "id": "assess-reporting-delay-impact",
+        "title": "Assess Reporting Delay Impact",
+        "originalPath": "/features/assess-reporting-delay-impact"
+      },
+      {
+        "id": "assess-intervention-effect",
+        "title": "Assess Intervention Effect",
+        "originalPath": "/features/assess-intervention-effect"
+      },
+      {
+        "id": "generate-alert-narrative",
+        "title": "Generate Alert Narrative",
+        "originalPath": "/features/generate-alert-narrative"
+      },
+      {
+        "id": "validate-chief-complaint-coding",
+        "title": "Validate Chief Complaint Coding",
+        "originalPath": "/features/validate-chief-complaint-coding"
+      },
+      {
+        "id": "suggest-syndrome-definition-refinement",
+        "title": "Refine Syndrome Definition",
+        "originalPath": "/features/suggest-syndrome-definition-refinement"
+      },
+      {
+        "id": "generate-weekly-report",
+        "title": "Generate Weekly Report",
+        "originalPath": "/features/generate-weekly-report"
+      },
+      {
+        "id": "validate-normalization",
+        "title": "Validate Normalization",
+        "originalPath": "/features/validate-normalization"
+      },
+      {
+        "id": "suggest-pmmov-correction",
+        "title": "Suggest PMMoV Correction",
+        "originalPath": "/features/suggest-pmmov-correction"
+      },
+      {
+        "id": "generate-public-bulletin",
+        "title": "Generate Public Bulletin",
+        "originalPath": "/features/generate-public-bulletin"
+      },
+      {
+        "id": "assess-pheic-criteria",
+        "title": "Assess PHEIC Criteria",
+        "originalPath": "/features/assess-pheic-criteria"
+      },
+      {
+        "id": "generate-ihr-notification",
+        "title": "Generate IHR Notification",
+        "originalPath": "/features/generate-ihr-notification"
+      },
+      {
+        "id": "generate-situation-report",
+        "title": "Generate Situation Report",
+        "originalPath": "/features/generate-situation-report"
+      },
+      {
+        "id": "resourceallocation-ai",
+        "title": "resourceallocation ai",
+        "originalPath": "/features/resourceallocation-ai"
+      },
+      {
+        "id": "features-ai-assistant",
+        "title": "AI Clinical Assistant",
+        "originalPath": "/features/features-ai-assistant"
+      },
+      {
+        "id": "dashboard-allergy-interaction-review",
+        "title": "Allergy Review",
+        "originalPath": "/features/dashboard-allergy-interaction-review"
+      },
+      {
+        "id": "dashboard-ai",
+        "title": "AI Features",
+        "originalPath": "/features/dashboard-ai"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "staffing-optimization",
+      "crew-schedule",
+      "route-optimizer",
+      "staffing-optimize",
+      "assess-country-ihr-capacity"
+    ],
+    "ai": true,
+    "representativeId": "staffing-optimization",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "staffing-optimization",
+        "title": "Staffing Optimization",
+        "originalPath": "/features/staffing-optimization"
+      },
+      {
+        "id": "crew-schedule",
+        "title": "Crew schedule",
+        "originalPath": "/features/crew-schedule"
+      },
+      {
+        "id": "route-optimizer",
+        "title": "Route Optimizer",
+        "originalPath": "/features/route-optimizer"
+      },
+      {
+        "id": "staffing-optimize",
+        "title": "Staffing Optimize",
+        "originalPath": "/features/staffing-optimize"
+      },
+      {
+        "id": "assess-country-ihr-capacity",
+        "title": "Assess Country IHR Capacity",
+        "originalPath": "/features/assess-country-ihr-capacity"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "demand-forecast",
+      "fatigue-analysis",
+      "mutual-aid-optimizer",
+      "incident-prediction",
+      "outcome-predict",
+      "no-show-predict",
+      "dashboard-ai-insights",
+      "predictive-surge-management-forecasting",
+      "length-of-stay-prediction-at-admission",
+      "staff-allocation-optimizer-predicting-ac",
+      "equipment-utilization-optimizer-for-vent",
+      "icu-step-down-recommendation",
+      "analyses",
+      "symptoms",
+      "resource-predictor",
+      "predictive",
+      "prediction-action-bundling",
+      "predict-disease",
+      "analysis",
+      "comorbidity-analyze",
+      "seasonality-predict",
+      "recommend-poe-screening",
+      "classify-threat-level",
+      "recommend-bilateral-actions",
+      "classify-cooperation-readiness",
+      "predict-spread-timeline",
+      "recommend-communication-strategy",
+      "classify-outbreak-origin",
+      "predict-immune-escape",
+      "detect-novel-mutations",
+      "recommend-sequencing-priority",
+      "predict-transmission-advantage",
+      "predict-clinical-severity",
+      "detect-recombination-event",
+      "recommend-surveillance-targets",
+      "recommend-investigation-steps",
+      "predict-cluster-growth",
+      "detect-secondary-clusters",
+      "classify-exposure-type",
+      "recommend-contact-tracing-scope",
+      "predict-final-cluster-size",
+      "predict-epidemic-trajectory",
+      "recommend-intervention-intensity",
+      "detect-r-changepoint",
+      "predict-herd-immunity-threshold",
+      "recommend-data-window",
+      "classify-transmission-phase",
+      "predict-peak-timing",
+      "recommend-monitoring-frequency",
+      "classify-symptom-cluster",
+      "predict-disease-causing-syndrome",
+      "recommend-investigation",
+      "score-signal-strength",
+      "detect-bias-by-facility",
+      "classify-age-group-pattern",
+      "predict-seasonal-shift",
+      "recommend-data-source-addition",
+      "score-data-timeliness",
+      "classify-pathogen-pattern",
+      "predict-clinical-cases-lag",
+      "recommend-sampling-frequency",
+      "generate-trend-narrative",
+      "detect-sample-degradation",
+      "classify-shedding-rate",
+      "predict-outbreak-pressure",
+      "recommend-confirmatory-testing",
+      "score-catchment-coverage",
+      "summarize-multi-pathogen-trend",
+      "score-notification-completeness",
+      "recommend-annex2-actions",
+      "classify-event-severity",
+      "predict-escalation-likelihood",
+      "recommend-cross-border-actions",
+      "classify-reporter-credibility",
+      "variant-tracking-forecasting",
+      "outbreakprediction-spatialtemporal-modeli",
+      "equitygapanalysis-disparities-by-demograp",
+      "vaccinationcoverageforecast"
+    ],
+    "ai": true,
+    "representativeId": "demand-forecast",
+    "description": "One assistant for 78 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "demand-forecast",
+        "title": "Demand forecast",
+        "originalPath": "/features/demand-forecast"
+      },
+      {
+        "id": "fatigue-analysis",
+        "title": "Fatigue analysis",
+        "originalPath": "/features/fatigue-analysis"
+      },
+      {
+        "id": "mutual-aid-optimizer",
+        "title": "Mutual aid optimizer",
+        "originalPath": "/features/mutual-aid-optimizer"
+      },
+      {
+        "id": "incident-prediction",
+        "title": "Incident prediction",
+        "originalPath": "/features/incident-prediction"
+      },
+      {
+        "id": "outcome-predict",
+        "title": "Outcome Predict",
+        "originalPath": "/features/outcome-predict"
+      },
+      {
+        "id": "no-show-predict",
+        "title": "No-Show Predict",
+        "originalPath": "/features/no-show-predict"
+      },
+      {
+        "id": "dashboard-ai-insights",
+        "title": "AI Insights",
+        "originalPath": "/features/dashboard-ai-insights"
+      },
+      {
+        "id": "predictive-surge-management-forecasting",
+        "title": "predictive surge management forecasting",
+        "originalPath": "/features/predictive-surge-management-forecasting"
+      },
+      {
+        "id": "length-of-stay-prediction-at-admission",
+        "title": "length of stay prediction at admission",
+        "originalPath": "/features/length-of-stay-prediction-at-admission"
+      },
+      {
+        "id": "staff-allocation-optimizer-predicting-ac",
+        "title": "staff allocation optimizer predicting ac",
+        "originalPath": "/features/staff-allocation-optimizer-predicting-ac"
+      },
+      {
+        "id": "equipment-utilization-optimizer-for-vent",
+        "title": "equipment utilization optimizer for vent",
+        "originalPath": "/features/equipment-utilization-optimizer-for-vent"
+      },
+      {
+        "id": "icu-step-down-recommendation",
+        "title": "icu step down recommendation",
+        "originalPath": "/features/icu-step-down-recommendation"
+      },
+      {
+        "id": "analyses",
+        "title": "AI Analysis",
+        "originalPath": "/features/analyses"
+      },
+      {
+        "id": "symptoms",
+        "title": "Symptom Analysis",
+        "originalPath": "/features/symptoms"
+      },
+      {
+        "id": "resource-predictor",
+        "title": "Resource Predictor",
+        "originalPath": "/features/resource-predictor"
+      },
+      {
+        "id": "predictive",
+        "title": "AI Predictive",
+        "originalPath": "/features/predictive"
+      },
+      {
+        "id": "prediction-action-bundling",
+        "title": "Prediction + action bundling",
+        "originalPath": "/features/prediction-action-bundling"
+      },
+      {
+        "id": "predict-disease",
+        "title": "Disease Prediction",
+        "originalPath": "/features/predict-disease"
+      },
+      {
+        "id": "analysis",
+        "title": "Analysis",
+        "originalPath": "/features/analysis"
+      },
+      {
+        "id": "comorbidity-analyze",
+        "title": "Comorbidity analyze",
+        "originalPath": "/features/comorbidity-analyze"
+      },
+      {
+        "id": "seasonality-predict",
+        "title": "Seasonality predict",
+        "originalPath": "/features/seasonality-predict"
+      },
+      {
+        "id": "recommend-poe-screening",
+        "title": "Recommend POE Screening",
+        "originalPath": "/features/recommend-poe-screening"
+      },
+      {
+        "id": "classify-threat-level",
+        "title": "Classify Threat Level",
+        "originalPath": "/features/classify-threat-level"
+      },
+      {
+        "id": "recommend-bilateral-actions",
+        "title": "Recommend Bilateral Actions",
+        "originalPath": "/features/recommend-bilateral-actions"
+      },
+      {
+        "id": "classify-cooperation-readiness",
+        "title": "Classify Cooperation Readiness",
+        "originalPath": "/features/classify-cooperation-readiness"
+      },
+      {
+        "id": "predict-spread-timeline",
+        "title": "Predict Spread Timeline",
+        "originalPath": "/features/predict-spread-timeline"
+      },
+      {
+        "id": "recommend-communication-strategy",
+        "title": "Recommend Communication Strategy",
+        "originalPath": "/features/recommend-communication-strategy"
+      },
+      {
+        "id": "classify-outbreak-origin",
+        "title": "Classify Outbreak Origin",
+        "originalPath": "/features/classify-outbreak-origin"
+      },
+      {
+        "id": "predict-immune-escape",
+        "title": "Predict Immune Escape",
+        "originalPath": "/features/predict-immune-escape"
+      },
+      {
+        "id": "detect-novel-mutations",
+        "title": "Detect Novel Mutations",
+        "originalPath": "/features/detect-novel-mutations"
+      },
+      {
+        "id": "recommend-sequencing-priority",
+        "title": "Recommend Sequencing Priority",
+        "originalPath": "/features/recommend-sequencing-priority"
+      },
+      {
+        "id": "predict-transmission-advantage",
+        "title": "Predict Transmission Advantage",
+        "originalPath": "/features/predict-transmission-advantage"
+      },
+      {
+        "id": "predict-clinical-severity",
+        "title": "Predict Clinical Severity",
+        "originalPath": "/features/predict-clinical-severity"
+      },
+      {
+        "id": "detect-recombination-event",
+        "title": "Detect Recombination Event",
+        "originalPath": "/features/detect-recombination-event"
+      },
+      {
+        "id": "recommend-surveillance-targets",
+        "title": "Recommend Surveillance Targets",
+        "originalPath": "/features/recommend-surveillance-targets"
+      },
+      {
+        "id": "recommend-investigation-steps",
+        "title": "Recommend Investigation Steps",
+        "originalPath": "/features/recommend-investigation-steps"
+      },
+      {
+        "id": "predict-cluster-growth",
+        "title": "Predict Cluster Growth",
+        "originalPath": "/features/predict-cluster-growth"
+      },
+      {
+        "id": "detect-secondary-clusters",
+        "title": "Detect Secondary Clusters",
+        "originalPath": "/features/detect-secondary-clusters"
+      },
+      {
+        "id": "classify-exposure-type",
+        "title": "Classify Exposure Type",
+        "originalPath": "/features/classify-exposure-type"
+      },
+      {
+        "id": "recommend-contact-tracing-scope",
+        "title": "Recommend Contact Tracing Scope",
+        "originalPath": "/features/recommend-contact-tracing-scope"
+      },
+      {
+        "id": "predict-final-cluster-size",
+        "title": "Predict Final Cluster Size",
+        "originalPath": "/features/predict-final-cluster-size"
+      },
+      {
+        "id": "predict-epidemic-trajectory",
+        "title": "Predict Epidemic Trajectory",
+        "originalPath": "/features/predict-epidemic-trajectory"
+      },
+      {
+        "id": "recommend-intervention-intensity",
+        "title": "Recommend Intervention Intensity",
+        "originalPath": "/features/recommend-intervention-intensity"
+      },
+      {
+        "id": "detect-r-changepoint",
+        "title": "Detect R Changepoint",
+        "originalPath": "/features/detect-r-changepoint"
+      },
+      {
+        "id": "predict-herd-immunity-threshold",
+        "title": "Predict Herd Immunity Threshold",
+        "originalPath": "/features/predict-herd-immunity-threshold"
+      },
+      {
+        "id": "recommend-data-window",
+        "title": "Recommend Data Window",
+        "originalPath": "/features/recommend-data-window"
+      },
+      {
+        "id": "classify-transmission-phase",
+        "title": "Classify Transmission Phase",
+        "originalPath": "/features/classify-transmission-phase"
+      },
+      {
+        "id": "predict-peak-timing",
+        "title": "Predict Peak Timing",
+        "originalPath": "/features/predict-peak-timing"
+      },
+      {
+        "id": "recommend-monitoring-frequency",
+        "title": "Recommend Monitoring Frequency",
+        "originalPath": "/features/recommend-monitoring-frequency"
+      },
+      {
+        "id": "classify-symptom-cluster",
+        "title": "Classify Symptom Cluster",
+        "originalPath": "/features/classify-symptom-cluster"
+      },
+      {
+        "id": "predict-disease-causing-syndrome",
+        "title": "Predict Disease from Syndrome",
+        "originalPath": "/features/predict-disease-causing-syndrome"
+      },
+      {
+        "id": "recommend-investigation",
+        "title": "Recommend Investigation",
+        "originalPath": "/features/recommend-investigation"
+      },
+      {
+        "id": "score-signal-strength",
+        "title": "Score Signal Strength",
+        "originalPath": "/features/score-signal-strength"
+      },
+      {
+        "id": "detect-bias-by-facility",
+        "title": "Detect Facility Bias",
+        "originalPath": "/features/detect-bias-by-facility"
+      },
+      {
+        "id": "classify-age-group-pattern",
+        "title": "Classify Age Group Pattern",
+        "originalPath": "/features/classify-age-group-pattern"
+      },
+      {
+        "id": "predict-seasonal-shift",
+        "title": "Predict Seasonal Shift",
+        "originalPath": "/features/predict-seasonal-shift"
+      },
+      {
+        "id": "recommend-data-source-addition",
+        "title": "Recommend Data Source Addition",
+        "originalPath": "/features/recommend-data-source-addition"
+      },
+      {
+        "id": "score-data-timeliness",
+        "title": "Score Data Timeliness",
+        "originalPath": "/features/score-data-timeliness"
+      },
+      {
+        "id": "classify-pathogen-pattern",
+        "title": "Classify Pathogen Pattern",
+        "originalPath": "/features/classify-pathogen-pattern"
+      },
+      {
+        "id": "predict-clinical-cases-lag",
+        "title": "Predict Clinical Cases (Lag)",
+        "originalPath": "/features/predict-clinical-cases-lag"
+      },
+      {
+        "id": "recommend-sampling-frequency",
+        "title": "Recommend Sampling Frequency",
+        "originalPath": "/features/recommend-sampling-frequency"
+      },
+      {
+        "id": "generate-trend-narrative",
+        "title": "Generate Trend Narrative",
+        "originalPath": "/features/generate-trend-narrative"
+      },
+      {
+        "id": "detect-sample-degradation",
+        "title": "Detect Sample Degradation",
+        "originalPath": "/features/detect-sample-degradation"
+      },
+      {
+        "id": "classify-shedding-rate",
+        "title": "Classify Shedding Rate",
+        "originalPath": "/features/classify-shedding-rate"
+      },
+      {
+        "id": "predict-outbreak-pressure",
+        "title": "Predict Outbreak Pressure",
+        "originalPath": "/features/predict-outbreak-pressure"
+      },
+      {
+        "id": "recommend-confirmatory-testing",
+        "title": "Recommend Confirmatory Testing",
+        "originalPath": "/features/recommend-confirmatory-testing"
+      },
+      {
+        "id": "score-catchment-coverage",
+        "title": "Score Catchment Coverage",
+        "originalPath": "/features/score-catchment-coverage"
+      },
+      {
+        "id": "summarize-multi-pathogen-trend",
+        "title": "Multi-Pathogen Trend Summary",
+        "originalPath": "/features/summarize-multi-pathogen-trend"
+      },
+      {
+        "id": "score-notification-completeness",
+        "title": "Score Notification Completeness",
+        "originalPath": "/features/score-notification-completeness"
+      },
+      {
+        "id": "recommend-annex2-actions",
+        "title": "Recommend Annex2 Actions",
+        "originalPath": "/features/recommend-annex2-actions"
+      },
+      {
+        "id": "classify-event-severity",
+        "title": "Classify Event Severity",
+        "originalPath": "/features/classify-event-severity"
+      },
+      {
+        "id": "predict-escalation-likelihood",
+        "title": "Predict Escalation Likelihood",
+        "originalPath": "/features/predict-escalation-likelihood"
+      },
+      {
+        "id": "recommend-cross-border-actions",
+        "title": "Recommend Cross-Border Actions",
+        "originalPath": "/features/recommend-cross-border-actions"
+      },
+      {
+        "id": "classify-reporter-credibility",
+        "title": "Classify Reporter Credibility",
+        "originalPath": "/features/classify-reporter-credibility"
+      },
+      {
+        "id": "variant-tracking-forecasting",
+        "title": "variant tracking forecasting",
+        "originalPath": "/features/variant-tracking-forecasting"
+      },
+      {
+        "id": "outbreakprediction-spatialtemporal-modeli",
+        "title": "outbreakprediction spatialtemporal modeli",
+        "originalPath": "/features/outbreakprediction-spatialtemporal-modeli"
+      },
+      {
+        "id": "equitygapanalysis-disparities-by-demograp",
+        "title": "equitygapanalysis disparities by demograp",
+        "originalPath": "/features/equitygapanalysis-disparities-by-demograp"
+      },
+      {
+        "id": "vaccinationcoverageforecast",
+        "title": "vaccinationcoverageforecast",
+        "originalPath": "/features/vaccinationcoverageforecast"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "history",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "history",
+        "title": "History",
+        "originalPath": "/features/history"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "risk-assessment",
+      "geriatric-risk",
+      "audit-summary",
+      "readmission-risk-prediction",
+      "quality-assess",
+      "readmission-risk",
+      "risks",
+      "risk-factors",
+      "assess-importation-risk",
+      "predict-local-transmission-risk",
+      "recommend-vector-control",
+      "classify-variant-risk",
+      "score-sequence-quality",
+      "assess-control-measure-effectiveness",
+      "score-environmental-risk",
+      "generate-policy-brief",
+      "detect-syndrome-anomaly",
+      "detect-signal-anomaly",
+      "score-signal-quality",
+      "assess-international-spread-risk",
+      "recommend-verification-steps",
+      "assess-control-measure-adequacy",
+      "interventionrecommendation-evidencebased"
+    ],
+    "ai": true,
+    "representativeId": "risk-assessment",
+    "description": "One assistant for 23 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "risk-assessment",
+        "title": "Risk Assessment",
+        "originalPath": "/features/risk-assessment"
+      },
+      {
+        "id": "geriatric-risk",
+        "title": "Geriatric risk",
+        "originalPath": "/features/geriatric-risk"
+      },
+      {
+        "id": "audit-summary",
+        "title": "Audit summary",
+        "originalPath": "/features/audit-summary"
+      },
+      {
+        "id": "readmission-risk-prediction",
+        "title": "readmission risk prediction",
+        "originalPath": "/features/readmission-risk-prediction"
+      },
+      {
+        "id": "quality-assess",
+        "title": "quality assess",
+        "originalPath": "/features/quality-assess"
+      },
+      {
+        "id": "readmission-risk",
+        "title": "Readmission Risk",
+        "originalPath": "/features/readmission-risk"
+      },
+      {
+        "id": "risks",
+        "title": "Regional Risk Assessment",
+        "originalPath": "/features/risks"
+      },
+      {
+        "id": "risk-factors",
+        "title": "Risk Factor Analysis",
+        "originalPath": "/features/risk-factors"
+      },
+      {
+        "id": "assess-importation-risk",
+        "title": "Assess Importation Risk",
+        "originalPath": "/features/assess-importation-risk"
+      },
+      {
+        "id": "predict-local-transmission-risk",
+        "title": "Predict Local Transmission Risk",
+        "originalPath": "/features/predict-local-transmission-risk"
+      },
+      {
+        "id": "recommend-vector-control",
+        "title": "Recommend Vector Control",
+        "originalPath": "/features/recommend-vector-control"
+      },
+      {
+        "id": "classify-variant-risk",
+        "title": "Classify Variant Risk",
+        "originalPath": "/features/classify-variant-risk"
+      },
+      {
+        "id": "score-sequence-quality",
+        "title": "Score Sequence Quality",
+        "originalPath": "/features/score-sequence-quality"
+      },
+      {
+        "id": "assess-control-measure-effectiveness",
+        "title": "Assess Control Measure Effectiveness",
+        "originalPath": "/features/assess-control-measure-effectiveness"
+      },
+      {
+        "id": "score-environmental-risk",
+        "title": "Score Environmental Risk",
+        "originalPath": "/features/score-environmental-risk"
+      },
+      {
+        "id": "generate-policy-brief",
+        "title": "Generate Policy Brief",
+        "originalPath": "/features/generate-policy-brief"
+      },
+      {
+        "id": "detect-syndrome-anomaly",
+        "title": "Detect Syndrome Anomaly",
+        "originalPath": "/features/detect-syndrome-anomaly"
+      },
+      {
+        "id": "detect-signal-anomaly",
+        "title": "Detect Signal Anomaly",
+        "originalPath": "/features/detect-signal-anomaly"
+      },
+      {
+        "id": "score-signal-quality",
+        "title": "Score Signal Quality",
+        "originalPath": "/features/score-signal-quality"
+      },
+      {
+        "id": "assess-international-spread-risk",
+        "title": "Assess International Spread Risk",
+        "originalPath": "/features/assess-international-spread-risk"
+      },
+      {
+        "id": "recommend-verification-steps",
+        "title": "Recommend Verification Steps",
+        "originalPath": "/features/recommend-verification-steps"
+      },
+      {
+        "id": "assess-control-measure-adequacy",
+        "title": "Assess Control Measure Adequacy",
+        "originalPath": "/features/assess-control-measure-adequacy"
+      },
+      {
+        "id": "interventionrecommendation-evidencebased",
+        "title": "interventionrecommendation evidencebased",
+        "originalPath": "/features/interventionrecommendation-evidencebased"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "campaigns"
+    ],
+    "ai": true,
+    "representativeId": "campaigns",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "campaigns",
+        "title": "Vaccination Campaigns",
+        "originalPath": "/features/campaigns"
+      }
+    ]
+  }
+]

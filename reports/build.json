@@ -1,0 +1,9 @@
+{
+  "app": "hospital-platform",
+  "features": 408,
+  "sourceApps": 10,
+  "calculatorEngines": 0,
+  "registryHash": "ddd62bdc0c72aef6fe02c92ab1d6b08475c90269d64797b09debc1ced31c9c6c",
+  "builtAt": "2026-09-07T22:05:30.082Z",
+  "status": "built"
+}

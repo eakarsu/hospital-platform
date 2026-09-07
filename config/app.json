@@ -1,0 +1,35 @@
+{
+  "id": "hospital-platform",
+  "title": "Hospital, diagnostics & emergency care",
+  "buyer": "Hospital and diagnostic-service teams",
+  "sourceCount": 10,
+  "sources": [
+    "AIAmbulanceEMSDispatch",
+    "AIAutomateroutingmedical",
+    "AIDrugInteractionChecker",
+    "AIHospitalBedResourceOptimizer",
+    "AIPathologySlideAnalyzer",
+    "AIPatientTriageforER",
+    "AIPredictdisease",
+    "AIPublicHealthEpidemiologyTracker",
+    "AIRadiologyReportGenerator",
+    "healthcare"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46010,
+  "productName": "Hospital, diagnostics Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/AIAmbulanceEMSDispatch",
+    "/Volumes/external/projects/AIAutomateroutingmedical",
+    "/Volumes/external/projects/AIDrugInteractionChecker",
+    "/Volumes/external/projects/AIHospitalBedResourceOptimizer",
+    "/Volumes/external/projects/AIPathologySlideAnalyzer",
+    "/Volumes/external/projects/AIPatientTriageforER",
+    "/Volumes/external/projects/AIPredictdisease",
+    "/Volumes/external/projects/AIPublicHealthEpidemiologyTracker",
+    "/Volumes/external/projects/AIRadiologyReportGenerator",
+    "/Volumes/external/projects/healthcare"
+  ]
+}

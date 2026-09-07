@@ -1,0 +1,11 @@
+{
+  "id": "hospital-platform",
+  "status": "passed",
+  "pagesVisited": 408,
+  "minimumRows": 15,
+  "browserCRUD": true,
+  "persistence": true,
+  "mobile": true,
+  "pageErrors": [],
+  "verifiedAt": "2026-09-07T14:39:45.261Z"
+}
